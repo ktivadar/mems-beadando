@@ -15,7 +15,7 @@ sense.clear()
 #sensor = BME280(t_mode=BME280_OSAMPLE_8, p_mode=BME280_OSAMPLE_8, h_mode=BME280_OSAMPLE_8)  
   
 #Variables for MySQL  
-db = MySQLdb.connect(host="localhost", user="root", passwd="54321qwe", db="sensor") # replace password with your password  
+db = MySQLdb.connect(host="localhost", user="root", passwd="mysql-jelszo", db="sensor") # replace password with your password  
 cur = db.cursor()  
   
 def dateTime(): #get UNIX time  
