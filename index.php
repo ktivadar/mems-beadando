@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "54321qwe";
+$password = "mysql-jelszo";
 $dbname = "sensor";
 
 // Create connection
