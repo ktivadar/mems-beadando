@@ -80,7 +80,7 @@ data: <?php echo json_encode($dateTemp, JSON_NUMERIC_CHECK);?>
 <div class="row">  
 <div class="col-md-10 col-md-offset-1">  
 <div class="panel panel-default">  
-<div class="panel-heading">30 percenkénti hőmérséklet rögzítés</div>  
+<div class="panel-heading">10 percenkénti hőmérséklet rögzítés</div>  
 <div class="panel-body">  
 <div id="container"></div>  
 </div>  
