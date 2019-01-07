@@ -5,3 +5,4 @@ Raspberry alapú időjárás állomás és élőkép közvetítő rendszer.
 - Raspberry Sense HAT panel
 - Raspberry kamera
 
+![ScreenShot](grafikon.png)
