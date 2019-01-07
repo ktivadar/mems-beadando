@@ -4,7 +4,7 @@ import time
 
 ap = SenseHat()
 ho = ap.get_temperature()
-ho = ho-10.5
+uj = ho-10.5
 par = ap.get_humidity()
 leg = ap.get_pressure()
 
@@ -15,7 +15,7 @@ leg = ap.get_pressure()
 
 ap.set_rotation(180)        # LED matrix jobbrol balra forgatasa
               
-ap.show_message("%.1f C" % ho, scroll_speed=0.10, text_colour=[0, 255, 0])
+ap.show_message("%.1f C" % uj, scroll_speed=0.10, text_colour=[0, 255, 0])
 
 time.sleep(1)           # 1s varakozas
 
