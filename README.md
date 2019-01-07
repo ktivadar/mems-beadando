@@ -5,4 +5,4 @@ Raspberry alapú időjárás állomás és élőkép közvetítő rendszer.
 - Raspberry Sense HAT panel
 - Raspberry kamera
 
-![ScreenShot](kesz.PNG)
+![ScreenShot](https://github.com/tivadark/mems-beadando/blob/master/kepek/kesz.png)
