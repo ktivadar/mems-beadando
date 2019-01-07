@@ -4,16 +4,15 @@ $username = "root";
 $password = "mysql-jelszo";
 $dbname = "sensor";
 
-// Create connection
+// Kapcsolat letesitese
 $conn = mysqli_connect($servername, $username, $password, $dbname);
-// Check connection
+// Kapcsolat megletenek ellenorzese
 if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
 }
 
 $sql = "SELECT datetime, temperature FROM bmesensor";
 $result = mysqli_query($conn, $sql);
-//$result = $conn->query($sql);
 $dateTemp = array();  
 
     while($row = mysqli_fetch_row($result)) {;
