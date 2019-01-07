@@ -7,7 +7,7 @@ Raspberry alapú időjárás állomás és élőkép közvetítő rendszer.
 
 ![ScreenShot](https://github.com/tivadark/mems-beadando/blob/master/kepek/kesz.png)
 
-![ScreenShot](https://github.com/tivadark/mems-beadando/blob/master/kepek/grafikon.png)
+![ScreenShot](https://github.com/tivadark/mems-beadando/blob/master/kepek/grafikon.PNG)
 ![ScreenShot](https://github.com/tivadark/mems-beadando/blob/master/kepek/kepkamera.png)
 ![ScreenShot](https://github.com/tivadark/mems-beadando/blob/master/kepek/phpmyadm.png)
 
